@@ -1,0 +1,84 @@
+9.999997e-19   -->  | +0.00100fA |  tAssign = 156  tPrint = 736
+1.000000e-18   -->  | +0.00100fA |  tAssign = 152  tPrint = 744
+ 
+9.999997e-16   -->  | +1.00000fA |  tAssign = 148  tPrint = 748
+1.000000e-15   -->  | +1.00000fA |  tAssign = 148  tPrint = 772
+ 
+9.999995e-13   -->  | +999.999fA |  tAssign = 152  tPrint = 716
+1.000000e-12   -->  | +1.00000pA |  tAssign = 140  tPrint = 772
+ 
+9.999994e-10   -->  | +999.999pA |  tAssign = 144  tPrint = 728
+1.000000e-9    -->  | +1.00000nA |  tAssign = 124  tPrint = 776
+ 
+9.999992e-7    -->  | +999.999nA |  tAssign = 116  tPrint = 732
+1.000000e-6    -->  | +1.00000uA |  tAssign = 88  tPrint = 768
+ 
+9.999992e-4    -->  | +999.999uA |  tAssign = 88  tPrint = 728
+1.000000e-3    -->  | +1.00000mA |  tAssign = 68  tPrint = 764
+ 
+9.999991e-1    -->  | +999.999mA |  tAssign = 60  tPrint = 724
+1.000000e0     -->  | +1.00000_A |  tAssign = 40  tPrint = 764
+ 
+9.999991e2     -->  | +999.999_A |  tAssign = 32  tPrint = 732
+1.000000e3     -->  | +1.00000kA |  tAssign = 52  tPrint = 772
+ 
+9.999991e5     -->  | +999.999kA |  tAssign = 52  tPrint = 724
+1.000000e6     -->  | +1.00000MA |  tAssign = 72  tPrint = 764
+ 
+9.999992e8     -->  | +999.999MA |  tAssign = 72  tPrint = 724
+1.000000e9     -->  | +1.00000GA |  tAssign = 88  tPrint = 772
+ 
+9.999991e11    -->  | +999.999GA |  tAssign = 88  tPrint = 732
+1.000000e12    -->  | +1.00000TA |  tAssign = 100  tPrint = 772
+ 
+9.999993e14    -->  | +999.999TA |  tAssign = 100  tPrint = 720
+1.000000e15    -->  | +1000.00TA |  tAssign = 100  tPrint = 680
+ 
+9.999993e17    -->  | Ovf        |  tAssign = 108  tPrint = 292
+1.000000e18    -->  | Ovf        |  tAssign = 100  tPrint = 312
+ 
+9.999996e20    -->  | Ovf        |  tAssign = 100  tPrint = 336
+1.000000e21    -->  | Ovf        |  tAssign = 100  tPrint = 360
+ 
+-9.999997e-19  -->  | -0.00100fA |  tAssign = 152  tPrint = 736
+-1.000000e-18  -->  | -0.00100fA |  tAssign = 160  tPrint = 732
+ 
+-9.999997e-16  -->  | -1.00000fA |  tAssign = 156  tPrint = 748
+-1.000000e-15  -->  | -1.00000fA |  tAssign = 148  tPrint = 772
+ 
+-9.999995e-13  -->  | -999.999fA |  tAssign = 152  tPrint = 716
+-1.000000e-12  -->  | -1.00000pA |  tAssign = 140  tPrint = 756
+ 
+-9.999994e-10  -->  | -999.999pA |  tAssign = 156  tPrint = 728
+-1.000000e-9   -->  | -1.00000nA |  tAssign = 120  tPrint = 768
+ 
+-9.999992e-7   -->  | -999.999nA |  tAssign = 124  tPrint = 724
+-1.000000e-6   -->  | -1.00000uA |  tAssign = 88  tPrint = 768
+ 
+-9.999992e-4   -->  | -999.999uA |  tAssign = 96  tPrint = 724
+-1.000000e-3   -->  | -1.00000mA |  tAssign = 64  tPrint = 764
+ 
+-9.999991e-1   -->  | -999.999mA |  tAssign = 60  tPrint = 728
+-1.000000e0    -->  | -1.00000_A |  tAssign = 32  tPrint = 772
+ 
+-9.999991e2    -->  | -999.999_A |  tAssign = 36  tPrint = 732
+-1.000000e3    -->  | -1.00000kA |  tAssign = 52  tPrint = 764
+ 
+-9.999991e5    -->  | -999.999kA |  tAssign = 60  tPrint = 724
+-1.000000e6    -->  | -1.00000MA |  tAssign = 72  tPrint = 772
+ 
+-9.999992e8    -->  | -999.999MA |  tAssign = 72  tPrint = 728
+-1.000000e9    -->  | -1.00000GA |  tAssign = 92  tPrint = 776
+ 
+-9.999991e11   -->  | -999.999GA |  tAssign = 88  tPrint = 728
+-1.000000e12   -->  | -1.00000TA |  tAssign = 100  tPrint = 772
+ 
+-9.999993e14   -->  | -999.999TA |  tAssign = 100  tPrint = 732
+-1.000000e15   -->  | -1000.00TA |  tAssign = 100  tPrint = 680
+ 
+-9.999993e17   -->  | Ovf        |  tAssign = 100  tPrint = 296
+-1.000000e18   -->  | Ovf        |  tAssign = 104  tPrint = 312
+ 
+-9.999996e20   -->  | Ovf        |  tAssign = 108  tPrint = 344
+-1.000000e21   -->  | Ovf        |  tAssign = 100  tPrint = 360
+ 
