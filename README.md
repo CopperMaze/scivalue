@@ -2,7 +2,7 @@ ScientificValue
 =
 An usefull Arduino library which print pretty scientific values
 
-## The library encapulate two classes:
+## The library encapsulates two classes:
  - **SciFormat:** this class holds parameters (number of digits, maximum scales, maximal displayed value etc...) that will be used by the SciValue class.
  - **SciValue:** this class knows how to format itself based on the parameters of an SciFormat object. Severals operators have been overloaded in this class.
 
