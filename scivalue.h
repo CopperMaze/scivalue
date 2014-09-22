@@ -38,13 +38,12 @@ public:
             int8_t maxExponent = 12);
 private:
   friend class SciValue;
-  char unit; // single char for the moment
-  bool isSigned; // if true print a + sign in front of positive value
-  uint8_t nDigits; // number of digits to display. 99.999 takes 5 digits
-  float maxDisplay; // if = 1000, 999 print as 999, 1000 print as 1.00k
-  int8_t maxExponent; // min exponent to no exceed (ex: -6 => µicro)
-  int8_t minExponent; // max exponent to not exceed (ex: 6 => Mega)
-  float rounding;
+  char    unit;         // single char for the moment
+  bool    isSigned;     // if true print a + sign in front of positive value
+  uint8_t nDigits;      // number of digits to display. 99.999 takes 5 digits
+  float   maxDisplay;   // if = 1000, 999 print as 999, 1000 print as 1.00k
+  int8_t  maxExponent;  // min exponent to no exceed (ex: -6 => µicro)
+  int8_t  minExponent;  // max exponent to not exceed (ex: 6 => Mega)
   static const char prefixes[10]; // holds the metric prefixes
 };
 

@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"sublimeclang_options":
+		[
+			"-D__AVR_ATmega32U4__",
+			"-DARDUINO=100",
+			"-DF_CPU=16000000L",
+			"-Wno-unknown-attributes",
+			"-Wno-attributes",
+			"-I${folder:${project_path:myproject.sublime-project}}/libraries/**",
+			"-ID:\\Documents\\Arduino\\libraries\\**",
+			"-IC:\\Program Files (x86)\\Arduino\\Arduino ERW 1.0.5\\hardware\\arduino\\cores\\arduino",
+			"-IC:\\Program Files (x86)\\Arduino\\Arduino ERW 1.0.5\\hardware\\arduino\\variants\\standard",
+			"-IC:\\Program Files (x86)\\Arduino\\Arduino ERW 1.0.5\\hardware\\tools\\avr\\avr\\include",
+			"-IC:\\Program Files (x86)\\Arduino\\Arduino ERW 1.0.5\\hardware\\tools\\avr\\avr\\include\\**"
+		]
+	}
+}

@@ -157,7 +157,7 @@ size_t SciValue::printTo(Print& p) const {
     }
   }
   else {
-    //even if mantissa < 1.0, we still have to print the zero: value = 0.123
+    //even if mantissa < 1.0, we still have to print the zero: ex: value = 0.123
     nTens = 1;
   }
 

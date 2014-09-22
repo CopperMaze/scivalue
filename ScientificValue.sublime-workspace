@@ -1,0 +1,939 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"line2	line2"
+			],
+			[
+				"lin",
+				"line2	line2"
+			],
+			[
+				"license",
+				"license: MIT	MIT_license"
+			],
+			[
+				"max",
+				"maxDisplay"
+			],
+			[
+				"Mul",
+				"Multiplied"
+			],
+			[
+				"mul",
+				"multiplier"
+			],
+			[
+				"mult",
+				"multiplied"
+			],
+			[
+				"multipli",
+				"Multiplier"
+			],
+			[
+				"multipl",
+				"Multiplier"
+			],
+			[
+				"format",
+				"formatValue()	void"
+			],
+			[
+				"Sci",
+				"SciValue"
+			],
+			[
+				"swit",
+				"switchVal	float"
+			],
+			[
+				"uin",
+				"uint8_t	typedef"
+			],
+			[
+				"tit",
+				"title1	title1"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"Prin",
+				"Print"
+			],
+			[
+				"P",
+				"Print"
+			],
+			[
+				"ma",
+				"maxDisplay	float"
+			],
+			[
+				"tmp_",
+				"tmp_maxDisplay	float"
+			],
+			[
+				"tmp",
+				"tmp_maxDisplay"
+			],
+			[
+				"sci",
+				"sciFormat"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"int",
+				"int8_t	typedef"
+			],
+			[
+				"micros",
+				"micros()	unsigned long"
+			],
+			[
+				"min",
+				"minExponent"
+			],
+			[
+				"nP",
+				"nPoints"
+			],
+			[
+				"divWhile",
+				"divWhile(float limit)	void"
+			],
+			[
+				"value",
+				"valueToPrint"
+			],
+			[
+				"prin",
+				"printString"
+			],
+			[
+				"nTens",
+				"nTensMax"
+			],
+			[
+				"Li",
+				"LittlePrint"
+			],
+			[
+				"ui",
+				"uint8_t	typedef"
+			],
+			[
+				"laun",
+				"launchTest()	void"
+			],
+			[
+				"pr",
+				"println(char)	size_t"
+			],
+			[
+				"micro",
+				"micros()	unsigned long"
+			],
+			[
+				"f",
+				"formatValue"
+			],
+			[
+				"sciV",
+				"sciValue"
+			],
+			[
+				"wir",
+				"write(const char *str)	size_t"
+			],
+			[
+				"form",
+				"formatValue(SciValue *sciVal)	void"
+			],
+			[
+				"for",
+				"formatValue(SciValue *sciVal)	void"
+			],
+			[
+				"forma",
+				"formattedString"
+			],
+			[
+				"print",
+				"printTo"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"expo",
+				"exponent"
+			],
+			[
+				"formated",
+				"formatedString	char [16]"
+			],
+			[
+				"border",
+				"borderLow	float"
+			],
+			[
+				"bor",
+				"borderHigh"
+			],
+			[
+				"Print",
+				"Print::println"
+			],
+			[
+				"nub",
+				"number_of_digits"
+			],
+			[
+				"nu",
+				"number_of_digits"
+			],
+			[
+				"float",
+				"floatToString"
+			],
+			[
+				"ten",
+				"tenscount"
+			],
+			[
+				"expM",
+				"expMin"
+			],
+			[
+				"exp",
+				"expMin"
+			],
+			[
+				"flo",
+				"floatToString"
+			],
+			[
+				"_h",
+				"_hookSize"
+			],
+			[
+				"_hook",
+				"_hookSize"
+			],
+			[
+				"mod",
+				"modifyPeriod"
+			],
+			[
+				"pause",
+				"pause2Sec"
+			],
+			[
+				"modi",
+				"modifyHook"
+			],
+			[
+				"modify",
+				"modifyPeriod"
+			],
+			[
+				"new",
+				"newHook"
+			],
+			[
+				"init",
+				"initialCount"
+			],
+			[
+				"Rotary",
+				"RotaryEncoder"
+			],
+			[
+				"led",
+				"ledOn"
+			],
+			[
+				"mo",
+				"modifyHook"
+			],
+			[
+				"ini",
+				"initialCount"
+			],
+			[
+				"tBeat",
+				"tBeatCore"
+			],
+			[
+				"_hoo",
+				"_hookSize"
+			],
+			[
+				"_ho",
+				"_hookData"
+			],
+			[
+				"pre",
+				"previous_recorded_period"
+			],
+			[
+				"hook",
+				"_hookSize"
+			],
+			[
+				"_",
+				"_hookData"
+			],
+			[
+				"d_",
+				"d_size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"GitHub: Edit"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: Enumeration"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"license",
+				"Licence Snippet: MIT"
+			],
+			[
+				"licen",
+				"Licence Snippet: MIT"
+			],
+			[
+				"auto",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins p",
+				"Package Control: Install Package"
+			],
+			[
+				"inpkg",
+				"Package Control: Install Package"
+			],
+			[
+				"instlpa",
+				"Package Control: Install Package"
+			],
+			[
+				"inspkg",
+				"Package Control: Install Package"
+			],
+			[
+				"rmvpkg",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 364.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Documents/Arduino/libraries/scivalue"
+	],
+	"file_history":
+	[
+		"/D/Documents/Arduino/libraries/scivalue/scivalue.cpp",
+		"/D/Documents/Arduino/libraries/scivalue/scivalue.h",
+		"/D/Documents/Arduino/libraries/scivalue/ScientificValue.sublime-project",
+		"/D/Documents/Arduino/libraries/scivalue/README.md",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/bigcomment.sublime-snippet",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/title1.sublime-snippet",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/line1.sublime-snippet",
+		"/D/Documents/Arduino/libraries/tBeat/tBeatProject.sublime-project",
+		"/D/Documents/Arduino/libraries/scivalue/Examples/SciValueExample/SciValueExample.ino",
+		"/D/Documents/Arduino/libraries/scivalue/scivalue/.gitattributes",
+		"/D/Desktop/GitHubLog.txt",
+		"/D/Documents/Arduino/libraries/scivalue/.gitignore",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/sublime-github/GitHub.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/GitHub.sublime-settings",
+		"/D/Documents/Arduino/libraries/scivalue/Examples/test/testResults.txt",
+		"/D/Documents/Arduino/libraries/scivalue/Examples/test/test.ino",
+		"/D/Documents/Arduino/SciValueExample/SciValueExample.ino",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Licence Snippets/README.md",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/MIT_license.sublime-snippet",
+		"/C/Users/Beubeuh/AppData/Local/Temp/Rar$DI02.214/fft.c",
+		"/D/Downloads/Ram Records Drum & Bass Annual  - 2011/Folder.auCDtect.txt",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeClang/internals/common.py",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeClang/Default.sublime-keymap",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Documents/Arduino/sciValueTest/sciValueTest.ino",
+		"/D/Sublime Text Backups/2014-09-17/D/Documents/Arduino/libraries/scivalue/scivalue_201710.cpp",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/AutoBackups (Windows).sublime-settings",
+		"/D/Sublime Text Backups/D/Documents/Arduino/libraries/scivalue/scivalue.cpp",
+		"/D/Sublime Text Backups/D/Documents/Arduino/sciValueTest/sciValueTest.ino",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/AutoBackups/AutoBackups.py",
+		"/D/Sublime Text Backups/D/PortablesPrograms/Sublime Text 3/Data/Packages/AutoBackups/AutoBackups.py",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/AutoBackups/autobackups/reloader.py",
+		"/D/Documents/Arduino/trunc_test/trunc_test.ino",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+		"/D/Sublime Text Backups/2014-09-17/D/Documents/Arduino/libraries/scivalue/scivalue_171051.cpp",
+		"/D/Sublime Text Backups/2014-09-17/D/Documents/Arduino/libraries/scivalue/scivalue_171510.cpp",
+		"/D/Sublime Text Backups/2014-09-17/D/Documents/Arduino/libraries/scivalue/scivalue_172446.cpp",
+		"/D/Sublime Text Backups/2014-09-17/D/Documents/Arduino/libraries/scivalue/scivalue_143202.h",
+		"/D/Sublime Text Backups/2014-09-17/D/Documents/Arduino/libraries/scivalue/Examples/test/test_142442.ino",
+		"/D/Documents/Arduino/sciValue2Test/sciValue2Test.ino",
+		"/D/Documents/Arduino/libraries/scivalue2/scivalue2.h",
+		"/D/Documents/Arduino/libraries/scivalue2/scivalue2.cpp",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/Print.cpp",
+		"/D/Documents/Arduino/sciValue2Test/Serial Monitor - COM2.txt",
+		"/C/Program Files (x86)/Mixxx/controllers/EKS Otus.hid.xml",
+		"/C/Program Files (x86)/Mixxx/controllers/EKS-Otus.js",
+		"/D/Documents/Arduino/divide speed test/divide speed test.ino",
+		"/C/Program Files (x86)/LLVM/include/clang-c/BuildSystem.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/DoxyDoc.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/DoxyDoc/DoxyDoc.sublime-settings",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/Print.h",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/Printable.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/C++.sublime-settings",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/WMath.cpp",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/WCharacter.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/SublimeClang.sublime-settings",
+		"/D/Desktop/TTM57SL.txt",
+		"/D/Desktop/RC.txt",
+		"/D/Desktop/wifi_Home.txt",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Arduino-like IDE/app/uploader.py",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/tools/avr/avr/include/avr/pgmspace.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeClang/internals/clang/include/stdarg.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/HardwareSerial.h",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/HardwareSerial.cpp",
+		"/D/Documents/Arduino/Wattuino/Wattuino.sublime-project",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/Desktop/CPP.py",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeCodeIntel/libs/SilverCity/CPP.py",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/Distraction Free.sublime-settings",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/robot/IPAddress.cpp",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/robot/IPAddress.h",
+		"/D/Documents/Arduino/libraries/scientific_value/scivalue.h",
+		"/D/Documents/Arduino/libraries/scientific_value/scivalue.cpp",
+		"/D/Documents/Arduino/libraries/scientific_value/Examples/test/test.cpp",
+		"/D/Documents/Arduino/libraries/scientific_value/sciformat.h",
+		"/D/Documents/Arduino/libraries/scientific_value/sciformat.cpp",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/tools/avr/avr/include/stdint.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/D/Documents/Arduino/libraries/scientific_value/Examples/ptrOrRefTest/ptrOrRefTest.cpp",
+		"/D/Documents/Arduino/libraries/scientific_value/Examples/ptrOrRefTest/ptrOrRefTest.ino",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Arduino-like IDE/app/menu.py",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Arduino-like IDE/compile/arduino_avr.txt",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/boards.txt",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/tools/avr/avr/include/avr/io.h",
+		"/D/Documents/Arduino/libraries/tBeat/tBeat.h",
+		"/D/Documents/Arduino/libraries/tBeat/Examples/tBeatBlinker/tBeatBlinker.cpp",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/hardware/arduino/cores/arduino/Arduino.h",
+		"/D/Documents/Arduino/libraries/scientific_value/scientific_value.cpp",
+		"/D/Documents/Arduino/libraries/scientific_value/scientific_value.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/SublimeClang/internals/parsehelp/parsehelp.py",
+		"/D/Documents/Arduino/libraries/scientific_value/Examples/test/test.ino",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/libraries/LiquidCrystal/LiquidCrystal.h",
+		"/C/Program Files (x86)/Arduino/Arduino ERW 1.0.5/libraries/LiquidCrystal/LiquidCrystal.cpp",
+		"/D/Documents/Arduino/libraries/wMenu/wMenu.cpp",
+		"/D/Documents/Arduino/libraries/INA219/INA219.cpp",
+		"/D/Documents/Arduino/libraries/INA219/INA219.h",
+		"/D/Documents/Arduino/libraries/wMenu/wMenu.h",
+		"/D/Documents/Arduino/libraries/tBeat/Examples/tBeatBlinker/tBeatBlinker.ino",
+		"/D/Documents/Arduino/libraries/scientific_value/Examples/test",
+		"/D/Documents/Arduino/libraries/scientific_value/Examples/test.ino",
+		"/D/Documents/Arduino/libraries/Vector/Vector.cpp",
+		"/D/Documents/Arduino/libraries/wINA219/INA219.cpp",
+		"/D/Documents/Arduino/libraries/tBeat/tBeat.cpp",
+		"/D/Documents/Arduino/libraries/RotaryEncoder/RotaryEncoder.cpp",
+		"/D/Documents/Arduino/libraries/Vector/Vector.h",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Arduino-like IDE/Default (Windows).sublime-keymap",
+		"/D/Documents/Arduino/libraries/Vector/Examples/VectorExample.ino",
+		"/C/Users/Beubeuh/AppData/Local/Temp/Rar$DI00.848/C.tmLanguage",
+		"/C/Users/Beubeuh/AppData/Local/Temp/Rar$DI00.990/Batch File.tmLanguage",
+		"/D/PortablesPrograms/Sublime Text 3/Packages/C++.sublime-package",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/C++11/messages/install.txt",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/C++11/C++11.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/User/C++11.sublime-settings",
+		"/D/PortablesPrograms/Sublime Text 3/Data/Packages/Arduino-like IDE/app/compiler.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Program Files (x86)\\Arduino\\Arduino ERW 1.0.5\\hardware\\arduino",
+			"",
+			"C:\\Program Files (x86)\\Arduino\\Arduino ERW 1.0.5\\hardware",
+			"D:\\PortablesPrograms\\Sublime Text 3\\Data\\Packages\\Arduino-like IDE",
+			"",
+			"D:\\PortablesPrograms\\Sublime Text 3",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"=====",
+			"====",
+			"===",
+			"==",
+			"comment",
+			"switchVal",
+			"+",
+			"x",
+			"-",
+			"Multiplier",
+			"Multiplied",
+			"mantissa",
+			"tmp_mantissa < sciFormat->maxDisplay",
+			"millis()",
+			"micros()",
+			"k",
+			"j",
+			"1",
+			"abs(mantissa) + rounding",
+			"tmp_mantissa",
+			"comment",
+			"sciFormat_A",
+			"A_",
+			"A_format",
+			"xVal",
+			"xForm",
+			"A_",
+			"maxExponent",
+			"minExponent",
+			"nPoints",
+			"minExponent",
+			"nPoints",
+			"maxExponent",
+			"nPoints",
+			"abs(mantissa)",
+			"xForm.nPoints",
+			"sciFormat->nPoints",
+			"nPoints",
+			"this->nPoints",
+			" + rounding",
+			"one",
+			" + rounding",
+			"t",
+			"maxDisplay",
+			"tmp_maxDisplay",
+			"maxDisplay",
+			"tmp_nPoints",
+			"xForm.nPoints",
+			"nPoints",
+			"Value",
+			"tempValue",
+			"format",
+			"\" cycles = \"",
+			"(\"int time = \")",
+			"Serial.println(t)",
+			"Serial.println(cycles)",
+			"millis",
+			"launchTest(-value);",
+			"= xForm.nPoints + ",
+			"for (",
+			"precision",
+			"sciValue->",
+			"precision",
+			"@",
+			"\\",
+			"p.print",
+			"p",
+			"rounding",
+			"number",
+			"prin",
+			"size_t Print::print",
+			"nChar += ",
+			"n",
+			"precision",
+			"5",
+			"reti",
+			"RTL",
+			"const",
+			"sciValue->",
+			"i",
+			"lnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnlnln",
+			"exponent",
+			"formatSciValue",
+			"Value",
+			"value",
+			"voltage",
+			"save",
+			"auto_",
+			"auto",
+			"write",
+			"auto",
+			"line",
+			"sciValue->value",
+			"sciValue->exponent",
+			"scivalue",
+			"exponentLimit",
+			"digits",
+			"format",
+			"SciFormat",
+			"expo",
+			"p_SciValue",
+			"expo_limit",
+			"align",
+			"type",
+			"count",
+			"formated",
+			"suffix",
+			"fullscale_value",
+			"sciVal.",
+			"->",
+			"printable",
+			"format",
+			"expoLimit",
+			"fullScaleValue",
+			"printable",
+			"scale",
+			"fixes",
+			"scale",
+			"fixedPoint",
+			"unit",
+			"maxPrecision",
+			".name",
+			"board.txt",
+			"board",
+			"Leonardo",
+			"ATmega32U4",
+			"__AVR_ATmega32U4__",
+			"32u4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Serial",
+			"inline size_t Print::print",
+			"endl;",
+			"reti",
+			"formatValue",
+			"value",
+			"exponent",
+			"limit",
+			"nDigits",
+			"sciFormat",
+			"SciFormatter",
+			"exponent",
+			"sciValue",
+			"exponentLimit",
+			"precision",
+			"formatted",
+			"unit",
+			"count",
+			"sciVal->",
+			".",
+			"p_format_object",
+			"expo_limit",
+			"fullscale_value",
+			"prefixes",
+			"tensExponentForm",
+			"suffix",
+			"fixedPoint",
+			"newValue",
+			"/",
+			"value",
+			"tmp_value",
+			"precision",
+			"tmp_value",
+			"expo",
+			"exponent",
+			"0",
+			"unsigned char",
+			"uint",
+			"int",
+			"blinkLength",
+			"Hook",
+			"tested",
+			"index",
+			"tested_index",
+			"Data[idx].",
+			"idx",
+			"List[idx]->",
+			"idx",
+			"Vector<Data>::",
+			"pushFront",
+			"pushBack",
+			"remove",
+			"Remove",
+			"PushFront",
+			"PushBack"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Examples":
+	{
+		"height": 164.0
+	},
+	"output.SciValueExample":
+	{
+		"height": 100.0
+	},
+	"output.Vector":
+	{
+		"height": 24.0
+	},
+	"output.clang":
+	{
+		"height": 121.0
+	},
+	"output.clang_static_analyzer":
+	{
+		"height": 0.0
+	},
+	"output.divide speed test":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.ptrOrRefTest":
+	{
+		"height": 174.0
+	},
+	"output.sciValue2Test":
+	{
+		"height": 166.0
+	},
+	"output.sciValueTest":
+	{
+		"height": 211.0
+	},
+	"output.scientific_value":
+	{
+		"height": 142.0
+	},
+	"output.scivalue":
+	{
+		"height": 88.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.tBeat":
+	{
+		"height": 180.0
+	},
+	"output.tBeatBlinker":
+	{
+		"height": 24.0
+	},
+	"output.test":
+	{
+		"height": 146.0
+	},
+	"output.trunc_test":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"project": "ScientificValue.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
